@@ -11,34 +11,17 @@ namespace Manejador
     public class ManejadorLogin
     {
         Funciones f = new Funciones();
-        public string[] validar(string Username, string Password)
+        public string[] validar(string _User, string _pass)
         {
             
             string[] resultado = new string[2];
 
-            DataSet r = f.Mostrar($"call validar('{Username}'," +
-                $"'{Sha1(Password)}')", "usuarios");
-
-            
-            if (r.Tables.Count > 0 && r.Tables[0].Rows.Count > 0)
-            {
-                DataTable dt = r.Tables[0];
-                resultado[0] = dt.Rows[0]["rs"].ToString();
-                resultado[1] = dt.Rows[0]["Nivel"].ToString();
-            }
-            else
-            {
-                // Manejar el caso en el que no se encuentren datos
-                resultado[0] = "Error: No se encontraron datos";
-                resultado[1] = "";
-            }
-
-            return resultado;
-
-            /*DataTable dt = r.Tables[0];
+            DataSet r = f.Mostrar($"call p_validar('{_User}'," +
+                $"'{Sha1(_pass)}')", "usuarios");
+            DataTable dt = r.Tables[0];
             resultado[0] = dt.Rows[0]["rs"].ToString();
             resultado[1] = dt.Rows[0]["Nivel"].ToString();
-            return resultado;*/
+            return resultado;
         }
 
         public int ObtenerIDUsuario(string user)

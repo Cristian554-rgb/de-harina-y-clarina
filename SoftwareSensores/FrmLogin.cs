@@ -32,10 +32,8 @@ namespace SoftwareSensores
                 this.Hide();
                 int nivelUsuario = int.Parse(r[1]);
 
-                FrmMenu menu = new FrmMenu ();
+                FrmMenu menu = new FrmMenu(nivelUsuario);
                 menu.Show();
-
-
             }
             else
             {

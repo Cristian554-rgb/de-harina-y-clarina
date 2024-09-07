@@ -47,13 +47,14 @@
             this.optSalir});
             this.toolStrip1.Location = new System.Drawing.Point(0, 0);
             this.toolStrip1.Name = "toolStrip1";
-            this.toolStrip1.Size = new System.Drawing.Size(800, 103);
+            this.toolStrip1.Size = new System.Drawing.Size(600, 103);
             this.toolStrip1.TabIndex = 0;
             this.toolStrip1.Text = "toolStrip1";
             // 
             // optUsuarios
             // 
             this.optUsuarios.AutoSize = false;
+            this.optUsuarios.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.optUsuarios.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
             this.optUsuarios.Image = ((System.Drawing.Image)(resources.GetObject("optUsuarios.Image")));
             this.optUsuarios.ImageTransparentColor = System.Drawing.Color.Magenta;
@@ -65,6 +66,7 @@
             // optSensores
             // 
             this.optSensores.AutoSize = false;
+            this.optSensores.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.optSensores.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
             this.optSensores.Image = ((System.Drawing.Image)(resources.GetObject("optSensores.Image")));
             this.optSensores.ImageTransparentColor = System.Drawing.Color.Magenta;
@@ -76,6 +78,7 @@
             // optTemperaturas
             // 
             this.optTemperaturas.AutoSize = false;
+            this.optTemperaturas.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.optTemperaturas.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
             this.optTemperaturas.Image = ((System.Drawing.Image)(resources.GetObject("optTemperaturas.Image")));
             this.optTemperaturas.ImageTransparentColor = System.Drawing.Color.Magenta;
@@ -87,6 +90,7 @@
             // optSalir
             // 
             this.optSalir.AutoSize = false;
+            this.optSalir.BackColor = System.Drawing.Color.Red;
             this.optSalir.DisplayStyle = System.Windows.Forms.ToolStripItemDisplayStyle.Image;
             this.optSalir.Image = ((System.Drawing.Image)(resources.GetObject("optSalir.Image")));
             this.optSalir.ImageTransparentColor = System.Drawing.Color.Magenta;
@@ -97,10 +101,11 @@
             // 
             // FrmMenu
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(600, 366);
             this.Controls.Add(this.toolStrip1);
+            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.Name = "FrmMenu";
             this.Text = "FrmMenu";
             this.toolStrip1.ResumeLayout(false);

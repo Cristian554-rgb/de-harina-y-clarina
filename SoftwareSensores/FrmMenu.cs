@@ -12,9 +12,35 @@ namespace SoftwareSensores
 {
     public partial class FrmMenu : Form
     {
-        public FrmMenu()
+        private int nivelUsuario;
+
+        public FrmMenu(int nivelUsuario)
         {
             InitializeComponent();
+            this.nivelUsuario = nivelUsuario;
+            ConfigurarMenu();
+        }
+
+        private void ConfigurarMenu()
+        {
+            if (nivelUsuario == 1)
+            {
+                optUsuarios.Visible = true;
+                optTemperaturas.Visible = true;
+                optSensores.Visible = true;
+            }
+            else if (nivelUsuario == 2)
+            {
+                optUsuarios.Visible = false;
+                optTemperaturas.Visible = true;
+                optSensores.Visible = true;
+            }
+            else if (nivelUsuario == 3)
+            {
+                optUsuarios.Visible = false;
+                optTemperaturas.Visible = false;
+                optSensores.Visible = true;
+            }
         }
 
         private void optUsuarios_Click(object sender, EventArgs e)

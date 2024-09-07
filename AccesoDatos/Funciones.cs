@@ -9,7 +9,7 @@ namespace AccesoDatos
 {
     public class Funciones
     {
-        Base b = new Base("localhost", "root", "", "Software");
+        Base b = new Base("localhost", "root", "", "db_Usuarios_Software_Sensores");
         public string Guardar(string q)
         {
             return b.Comando(q);
