@@ -12,9 +12,9 @@ namespace Manejador
     {
         Funciones f = new Funciones();
         public void Guardar(TextBox Username, TextBox Password,
-            TextBox Nombre, TextBox Apellidos, ComboBox Nivel)
+            TextBox Nombre, TextBox Apellido, ComboBox Nivel)
         {
-            MessageBox.Show(f.Guardar($"insert into usuarios values ('{Username.Text}', sha1('{Password.Text}'), '{Nombre.Text}', '{Apellidos.Text}', '{Nivel.Text}');"),
+            MessageBox.Show(f.Guardar($"insert into usuarios values ('{Username.Text}', sha1('{Password.Text}'), '{Nombre.Text}', '{Apellido.Text}', '{Nivel.Text}');"),
                 "!Atencion", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
         public void Borrar(int Id, string dato)
@@ -29,9 +29,9 @@ namespace Manejador
             }
         }
         public void Modificar(TextBox Username, TextBox Password, TextBox Nombre,
-            TextBox Apellidos, ComboBox Nivel, int Id)
+            TextBox Apellido, ComboBox Nivel, int Id)
         {
-            MessageBox.Show(f.Modificar($"UPDATE usuarios SET Username = '{Username.Text}', Password = '{Password.Text}', Nombre = '{Nombre.Text}', Apellidos = '{Apellidos.Text}', Nivel = '{Nivel.Text}' WHERE Id = {Id};"),
+            MessageBox.Show(f.Modificar($"UPDATE usuarios SET Username = '{Username.Text}', Password = '{Password.Text}', Nombre = '{Nombre.Text}', Apellidos = '{Apellido.Text}', Nivel = '{Nivel.Text}' WHERE Id = {Id};"),
                 "!Atencion", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
         DataGridViewButtonColumn Boton(string t, Color co)

@@ -46,21 +46,23 @@ namespace SoftwareSensores
         private void optUsuarios_Click(object sender, EventArgs e)
         {
             FrmUsuarios fu = new FrmUsuarios();
-            fu.MdiParent = this;
+            
             fu.Show();
         }
 
         private void optSensores_Click(object sender, EventArgs e)
         {
-            FrmSensores fs = new FrmSensores();
-            fs.MdiParent = this;
-            fs.Show();
+            FrmTemperaturas frmTemperaturas = new FrmTemperaturas();
+            FrmSensores frmSensores = new FrmSensores(frmTemperaturas);
+            frmSensores.Show();
+            frmTemperaturas.Show();
+            
         }
 
         private void optTemperaturas_Click(object sender, EventArgs e)
         {
             FrmTemperaturas ft = new FrmTemperaturas();
-            ft.MdiParent = this;
+            
             ft.Show();
         }
 

@@ -27,7 +27,7 @@ namespace SoftwareSensores
         {
             string[] r = new string[2];
             r = ml.validar(txtUsuario.Text, txtclave.Text);
-            if (r[0].Equals("Correcto"))
+            if (r[0].Equals("correcto"))
             {
                 this.Hide();
                 int nivelUsuario = int.Parse(r[1]);

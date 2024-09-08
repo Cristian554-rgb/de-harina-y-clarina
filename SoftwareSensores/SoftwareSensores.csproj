@@ -93,6 +93,9 @@
     <EmbeddedResource Include="FrmMenu.resx">
       <DependentUpon>FrmMenu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrmSensores.resx">
+      <DependentUpon>FrmSensores.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmTemperaturas.resx">
       <DependentUpon>FrmTemperaturas.cs</DependentUpon>
     </EmbeddedResource>
@@ -122,6 +125,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\AccesoDatos\AccesoDatos.csproj">
+      <Project>{4dee10f3-a270-452a-8e39-cd512261e79a}</Project>
+      <Name>AccesoDatos</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Manejador\Manejador.csproj">
       <Project>{38a5c965-8a74-453c-b742-ac176a23cec1}</Project>
       <Name>Manejador</Name>

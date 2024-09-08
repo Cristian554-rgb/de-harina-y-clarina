@@ -96,3 +96,4 @@ C:\Users\josem\Source\Repos\de-harina-y-clarina\SoftwareSensores\obj\Debug\Softw
 C:\Users\josem\Source\Repos\de-harina-y-clarina\SoftwareSensores\obj\Debug\Software.906E5647.Up2Date
 C:\Users\josem\Source\Repos\de-harina-y-clarina\SoftwareSensores\obj\Debug\SoftwareSensores.exe
 C:\Users\josem\Source\Repos\de-harina-y-clarina\SoftwareSensores\obj\Debug\SoftwareSensores.pdb
+C:\Users\Alucindio PC\source\repos\SoftwareSensores\SoftwareSensores\obj\Debug\SoftwareSensores.FrmSensores.resources
