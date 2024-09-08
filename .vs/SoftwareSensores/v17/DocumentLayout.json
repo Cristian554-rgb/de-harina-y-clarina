@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\softwaresensores\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|solutionrelative:softwaresensores\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38A5C965-8A74-453C-B742-AC176A23CEC1}|Manejador\\Manejador.csproj|C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\manejador\\manejadorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38A5C965-8A74-453C-B742-AC176A23CEC1}|Manejador\\Manejador.csproj|solutionrelative:manejador\\manejadorlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\softwaresensores\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|solutionrelative:softwaresensores\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4DEE10F3-A270-452A-8E39-CD512261E79A}|AccesoDatos\\AccesoDatos.csproj|C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\accesodatos\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DEE10F3-A270-452A-8E39-CD512261E79A}|AccesoDatos\\AccesoDatos.csproj|solutionrelative:accesodatos\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\softwaresensores\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|c:\\users\\josem\\source\\repos\\de-harina-y-clarina\\softwaresensores\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|solutionrelative:softwaresensores\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|c:\\users\\josem\\source\\repos\\de-harina-y-clarina\\softwaresensores\\frmsensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|solutionrelative:softwaresensores\\frmsensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|c:\\users\\josem\\source\\repos\\de-harina-y-clarina\\softwaresensores\\frmsensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|solutionrelative:softwaresensores\\frmsensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|c:\\users\\josem\\source\\repos\\de-harina-y-clarina\\softwaresensores\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|solutionrelative:softwaresensores\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -39,66 +35,52 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ManejadorLogin.cs",
-              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\Manejador\\ManejadorLogin.cs",
-              "RelativeDocumentMoniker": "Manejador\\ManejadorLogin.cs",
-              "ToolTip": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\Manejador\\ManejadorLogin.cs",
-              "RelativeToolTip": "Manejador\\ManejadorLogin.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBgAAAAJAAAAAAAAAA==",
+              "Title": "FrmSensores.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\SoftwareSensores\\FrmSensores.cs",
+              "RelativeDocumentMoniker": "SoftwareSensores\\FrmSensores.cs",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\SoftwareSensores\\FrmSensores.cs",
+              "RelativeToolTip": "SoftwareSensores\\FrmSensores.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T01:06:30.946Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmLogin.cs",
-              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\SoftwareSensores\\FrmLogin.cs",
-              "RelativeDocumentMoniker": "SoftwareSensores\\FrmLogin.cs",
-              "ToolTip": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\SoftwareSensores\\FrmLogin.cs",
-              "RelativeToolTip": "SoftwareSensores\\FrmLogin.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAWwBwAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T01:06:31.01Z",
+              "WhenOpened": "2024-09-08T02:54:02.895Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FrmSensores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\SoftwareSensores\\FrmSensores.cs",
+              "RelativeDocumentMoniker": "SoftwareSensores\\FrmSensores.cs",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\SoftwareSensores\\FrmSensores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SoftwareSensores\\FrmSensores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T02:54:00.233Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmMenu.cs",
+              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\SoftwareSensores\\FrmMenu.cs",
+              "RelativeDocumentMoniker": "SoftwareSensores\\FrmMenu.cs",
+              "ToolTip": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\SoftwareSensores\\FrmMenu.cs",
+              "RelativeToolTip": "SoftwareSensores\\FrmMenu.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAMwDgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T02:51:32.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "FrmMenu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\SoftwareSensores\\FrmMenu.cs",
               "RelativeDocumentMoniker": "SoftwareSensores\\FrmMenu.cs",
               "ToolTip": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\SoftwareSensores\\FrmMenu.cs [Dise\u00F1o]",
               "RelativeToolTip": "SoftwareSensores\\FrmMenu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T01:06:31.023Z",
+              "WhenOpened": "2024-09-08T02:51:30.481Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "FrmMenu.cs",
-              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\SoftwareSensores\\FrmMenu.cs",
-              "RelativeDocumentMoniker": "SoftwareSensores\\FrmMenu.cs",
-              "ToolTip": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\SoftwareSensores\\FrmMenu.cs",
-              "RelativeToolTip": "SoftwareSensores\\FrmMenu.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACgAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T01:06:31.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Funciones.cs",
-              "DocumentMoniker": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\AccesoDatos\\Funciones.cs",
-              "RelativeDocumentMoniker": "AccesoDatos\\Funciones.cs",
-              "ToolTip": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\AccesoDatos\\Funciones.cs",
-              "RelativeToolTip": "AccesoDatos\\Funciones.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T01:06:31.035Z",
-              "EditorCaption": ""
             }
           ]
         }

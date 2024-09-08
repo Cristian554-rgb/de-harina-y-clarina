@@ -14,7 +14,7 @@ namespace Manejador
         public void Guardar(TextBox Username, TextBox Password,
             TextBox Nombre, TextBox Apellido, ComboBox Nivel)
         {
-            MessageBox.Show(f.Guardar($"insert into usuarios values ('{Username.Text}', sha1('{Password.Text}'), '{Nombre.Text}', '{Apellido.Text}', '{Nivel.Text}');"),
+            MessageBox.Show(f.Guardar($"insert into usuarios (Username, Password, Nombre, Apellido, Nivel) values ('{Username.Text}', sha1('{Password.Text}'), '{Nombre.Text}', '{Apellido.Text}', '{Nivel.Text}');"),
                 "!Atencion", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
         public void Borrar(int Id, string dato)
@@ -47,10 +47,10 @@ namespace Manejador
         public void Mostrar(DataGridView tabla, string filtro)
         {
             tabla.Columns.Clear();
-            tabla.DataSource = f.Mostrar($"Select * from usuarios where nombre like '%{filtro}%'",
+            tabla.DataSource = f.Mostrar($"Select * from v_Usuarios where nombre like '%{filtro}%'",
                 "usuarios").Tables[0];
-            tabla.Columns.Insert(4, Boton("Borrar", Color.Red));
-            tabla.Columns.Insert(5, Boton("Modificar", Color.Green));
+            tabla.Columns.Insert(6, Boton("Borrar", Color.Red));
+            tabla.Columns.Insert(7, Boton("Modificar", Color.Green));
             tabla.AutoResizeColumns();
             tabla.AutoResizeRows();
         }
