@@ -55,6 +55,7 @@ namespace SoftwareSensores
             FrmTemperaturas frmTemperaturas = new FrmTemperaturas();
             FrmSensores frmSensores = new FrmSensores(frmTemperaturas);
             frmSensores.Show();
+            frmTemperaturas.Show();
         }
 
         private void optTemperaturas_Click(object sender, EventArgs e)

@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|solutionrelative:softwaresensores\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|c:\\users\\josem\\source\\repos\\de-harina-y-clarina\\softwaresensores\\frmsensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\softwaresensores\\frmsensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|solutionrelative:softwaresensores\\frmsensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|c:\\users\\josem\\source\\repos\\de-harina-y-clarina\\softwaresensores\\frmsensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\softwaresensores\\frmsensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|solutionrelative:softwaresensores\\frmsensores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|c:\\users\\josem\\source\\repos\\de-harina-y-clarina\\softwaresensores\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\softwaresensores\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AD962535-0724-4F8E-9132-0A5484D83CFC}|SoftwareSensores\\SoftwareSensores.csproj|solutionrelative:softwaresensores\\frmmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -42,8 +42,7 @@
               "RelativeToolTip": "SoftwareSensores\\FrmSensores.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T02:54:02.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-08T02:54:02.895Z"
             },
             {
               "$type": "Document",
@@ -54,8 +53,7 @@
               "ToolTip": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\SoftwareSensores\\FrmSensores.cs [Dise\u00F1o]",
               "RelativeToolTip": "SoftwareSensores\\FrmSensores.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T02:54:00.233Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-08T02:54:00.233Z"
             },
             {
               "$type": "Document",
@@ -65,7 +63,7 @@
               "RelativeDocumentMoniker": "SoftwareSensores\\FrmMenu.cs",
               "ToolTip": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\SoftwareSensores\\FrmMenu.cs",
               "RelativeToolTip": "SoftwareSensores\\FrmMenu.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAMwDgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAMwDkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-08T02:51:32.885Z",
               "EditorCaption": ""
@@ -79,8 +77,7 @@
               "ToolTip": "C:\\Users\\josem\\source\\repos\\de-harina-y-clarina\\SoftwareSensores\\FrmMenu.cs [Dise\u00F1o]",
               "RelativeToolTip": "SoftwareSensores\\FrmMenu.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-08T02:51:30.481Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-09-08T02:51:30.481Z"
             }
           ]
         }
